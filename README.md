@@ -1,1 +1,1 @@
-# llm-youtube-rag-project
+#  Chat with YouTube Videos using GenAI (RAG Pipeline)
