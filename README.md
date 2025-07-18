@@ -31,13 +31,13 @@ As someone with a Python background but new to LLMs and LangChain, this project 
 Initially, I planned to use OpenAI's GPT models and embeddings in this project. However, due to API quota limitations and the requirement to add billing details (which are not ideal for early experimentation), I switched to using **Hugging Face models**.
 
 Hugging Face provides free and open alternatives for both:
-🔹 Text Embeddings (`all-MiniLM-L6-v2`)
- 🔹 Text Generation (`flan-t5-large`)
+-🔹 Text Embeddings (`all-MiniLM-L6-v2`)
+-🔹 Text Generation (`flan-t5-large`)
 
 This allows the project to remain:
- ✅ Free to run
- ✅ Fully functional in Google Colab
- ✅ Beginner-friendly for anyone who wants to test GenAI without paying
+- ✅ Free to run
+- ✅ Fully functional in Google Colab
+- ✅ Beginner-friendly for anyone who wants to test GenAI without paying
 
 ## 📦 Setup Instructions
 
