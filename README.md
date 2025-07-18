@@ -43,9 +43,9 @@ This allows the project to remain:
 
 ## 📘 Future Improvements
 
- 🔄 Add a user interface using **Streamlit** for a more interactive experience
- 📝 Display full transcript and allow on-demand summarization
- 💬 Include a chat history panel for user queries
- 🔒 Add basic authentication to restrict access
- 📁 Allow user to upload their own video or document for Q&A
+- 🔄 Add a user interface using **Streamlit** for a more interactive experience
+- 📝 Display full transcript and allow on-demand summarization
+- 💬 Include a chat history panel for user queries
+- 🔒 Add basic authentication to restrict access
+- 📁 Allow user to upload their own video or document for Q&A
 
