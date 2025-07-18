@@ -1,5 +1,5 @@
 # 🎬 Chat with YouTube Videos using GenAI (RAG Pipeline)
-This project demonstrates how to build a **Retrieval-Augmented Generation (RAG)** pipeline using **LangChain**, **OpenAI**, and **ChromaDB**, allowing users to chat with the content of any YouTube video by extracting and embedding its transcript.
+This project demonstrates how to build a **Retrieval-Augmented Generation (RAG)** pipeline using **LangChain**, **HuggingFace**, and **ChromaDB**, allowing users to chat with the content of any YouTube video by extracting and embedding its transcript.
 ## 🧠 What I Learned
 As someone with a Python background but new to LLMs and LangChain, this project helped me understand:
 
@@ -22,6 +22,7 @@ As someone with a Python background but new to LLMs and LangChain, this project 
 | Google Colab     | Cloud-based Development environment    |
 | LangChain        | LLM chaining and RAG pipeline          |
 | OpenAI API       | Embedding and GPT-based answering      |
+|Hugging Face Transformers | Free LLMs & Embeddings (used instead of OpenAI) |
 | Chroma           | Vector store for document retrieval    |
 | youtube-transcript-api | Fetch video transcript without using youtube DATA API             |
 
