@@ -4,3 +4,4 @@ langchain_chroma
 transformers
 sentence-transformers
 youtube-transcript-api
+nbformat
