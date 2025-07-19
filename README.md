@@ -39,7 +39,6 @@ This allows the project to remain:
 - ✅ Fully functional in Google Colab
 - ✅ Beginner-friendly for anyone who wants to test GenAI without paying
 
-## 📦 Setup Instructions
 
 ## 📘 Future Improvements
 
